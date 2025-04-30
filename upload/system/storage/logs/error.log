@@ -1,0 +1,112 @@
+2025-04-25 16:50:28 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:50:28 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:52:23 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:52:23 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:52:35 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:52:35 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:52:54 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:52:54 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:53:06 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:53:06 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:53:10 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:53:10 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:53:28 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:53:28 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:54:21 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:54:21 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:56:47 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:56:47 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:57:29 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:57:29 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:57:45 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:57:45 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:58:10 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-25 16:58:10 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 6:46:54 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 6:48:01 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 6:48:03 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 9:45:41 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:45:41 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:46:07 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:46:07 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:46:30 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:46:30 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:48:58 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:48:58 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:49:22 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:49:22 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:52:27 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:52:27 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:52:59 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:52:59 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:53:51 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:53:51 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:54:24 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:54:24 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:58:56 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 9:58:56 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:01:56 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:01:56 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:02:15 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:02:15 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:03:07 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:03:07 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:08:32 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:08:32 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:08:46 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:08:46 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:08:49 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:08:49 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:09:13 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:09:13 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:10:40 - PHP Warning:  Undefined array key "key" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 10:10:40 - PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\opencart\upload\catalog\controller\api\cart.php on line 84
+2025-04-29 11:49:55 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 11:49:58 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 11:54:08 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 11:54:10 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 15:23:18 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 15:23:21 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 15:51:08 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. 98e67ed59e1d1-309f782d4d6sm9589508a91.38 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 15:51:10 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. 98e67ed59e1d1-30a244bf043sm1219465a91.0 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:12:02 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. d2e1a72fcca58-73e25ac30f6sm10086153b3a.156 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:12:04 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. d9443c01a7336-22db4d76d12sm104841055ad.25 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:12:51 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. d9443c01a7336-22db51022f8sm104704445ad.174 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:12:53 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. 98e67ed59e1d1-309f782cd54sm9498210a91.35 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:14:40 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. d2e1a72fcca58-73e259412e5sm10424401b3a.51 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:14:41 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. d2e1a72fcca58-73e25a6a965sm10052049b3a.118 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:16:02 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. d2e1a72fcca58-73e259412e5sm10426103b3a.51 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:16:04 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. d9443c01a7336-22db5216d36sm104130565ad.242 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:16:57 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. d2e1a72fcca58-73e2593f557sm10048165b3a.42 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:16:58 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. 98e67ed59e1d1-309f7763ed0sm9536891a91.24 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:51:13 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. d9443c01a7336-22dc60bd15fsm72698865ad.15 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-29 16:51:14 - PHP Warning:  mail(): SMTP server response: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. d2e1a72fcca58-73e25a6b274sm10470380b3a.100 - gsmtp in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2025-04-30 10:04:32 - PHP Warning:  fsockopen(): Unable to connect to sandbox.smtp.mailtrap.io:2525 (A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) in C:\xampp\htdocs\opencart\upload\system\library\mail\smtp.php on line 88
