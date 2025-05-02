@@ -1,0 +1,129 @@
+Microsoft Windows [Version 10.0.22000.2538]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\GOVARADHAN\OneDrive\Desktop\Testcases>newman run zOpencart.postman_collection.json
+newman
+
+zOpencart
+
+→ CreateSession
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/login  (node:14040) [DEP0044] DeprecationWarning: The `util.isArray` API is deprecated. Please use `Array.isArray()` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[200 OK, 628B, 266ms]
+  √  Status code is 200
+  √  Checking success message in response
+
+→ addcart
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/cart/add&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 305B, 129ms]
+  √  Status code is 200
+  √  Checking success message in response
+
+→ cartcontent
+  GET http://192.168.20.154/opencart/upload/index.php?route=api/cart/products
+&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 630B, 116ms]
+  √  Status code is 200
+
+→ Edit_cart
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/cart/edit&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 305B, 131ms]
+  √  Status code is 200
+  √  Checking success message in response
+
+→ apply_coupon
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/coupon&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 328B, 73ms]
+  √  Status code is 200
+
+→ set_Customer
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/customer&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 299B, 101ms]
+  √  Status code is 200
+  √  Response body is as expected
+
+→ add_Vochure
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/voucher/add&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 305B, 106ms]
+  √  Status code is 200
+  √  Response body contains success message
+
+→ apply_Vochure
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/voucher&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 329B, 85ms]
+  √  Status code is 200
+
+→ shipping_adress
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/shipping/address&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 298B, 172ms]
+  √  Status code is 200
+  √  Response body contains success message
+
+→ Shipping_Methods
+  GET http://192.168.20.154/opencart/upload/index.php?route=api/shipping/methods&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 443B, 138ms]
+
+→ add_shipinghmethod
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/shipping/method&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 297B, 94ms]
+  √  Status code is 200
+  √  Checking success message in response
+
+→ payment_address
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/payment/address&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 297B, 147ms]
+  √  Status code is 200
+  √  Checking success message in response
+
+→ payment_methods
+  GET http://192.168.20.154/opencart/upload/index.php?route=api/payment/methods&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 342B, 195ms]
+
+→ set_paymentmethod
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/payment/method&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 296B, 162ms]
+  √  Status code is 200
+  √  Checking success message in response
+
+→ add_Order
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/order/add&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 307B, 7.4s]
+
+→ order_info
+  GET http://192.168.20.154/opencart/upload/index.php?route=api/order/info&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 291B, 97ms]
+  √  Status code is 200
+  1. Response body contains success message
+
+→ order_history
+  GET http://192.168.20.154/opencart/upload/index.php?route=api/order/history&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 291B, 124ms]
+
+→ Reward
+  GET http://192.168.20.154/opencart/upload/index.php?route=api/reward/available&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 260B, 77ms]
+
+→ order_edit
+  POST http://192.168.20.154/opencart/upload/index.php?route=api/order/edit&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 291B, 96ms]
+  √  Status code is 200
+  2. Response body contains success message
+
+→ delete_order
+  DELETE http://192.168.20.154/opencart/upload/index.php?route=api/order/delete&api_token=3bcc9edf28dbec16ad55564ea0 [200 OK, 291B, 92ms]
+
+┌─────────────────────────┬────────────────────┬────────────────────┐
+│                         │           executed │             failed │
+├─────────────────────────┼────────────────────┼────────────────────┤
+│              iterations │                  1 │                  0 │
+├─────────────────────────┼────────────────────┼────────────────────┤
+│                requests │                 20 │                  0 │
+├─────────────────────────┼────────────────────┼────────────────────┤
+│            test-scripts │                 35 │                  0 │
+├─────────────────────────┼────────────────────┼────────────────────┤
+│      prerequest-scripts │                 24 │                  0 │
+├─────────────────────────┼────────────────────┼────────────────────┤
+│              assertions │                 25 │                  2 │
+├─────────────────────────┴────────────────────┴────────────────────┤
+│ total run duration: 12.6s                                         │
+├───────────────────────────────────────────────────────────────────┤
+│ total data received: 1.65kB (approx)                              │
+├───────────────────────────────────────────────────────────────────┤
+│ average response time: 491ms [min: 73ms, max: 7.4s, s.d.: 1593ms] │
+└───────────────────────────────────────────────────────────────────┘
+
+  #  failure                          detail
+
+ 1.  AssertionError                   Response body contains success message
+                                      the given combination of arguments (undefined and string) is invalid for this assertion. You can use an array, a map, an object,
+                                      a set, a string, or a weakset instead of a string
+                                      at assertion:1 in test-script
+                                      inside "order_info"
+
+ 2.  AssertionError                   Response body contains success message
+                                      the given combination of arguments (undefined and string) is invalid for this assertion. You can use an array, a map, an object,
+                                      a set, a string, or a weakset instead of a string
+                                      at assertion:1 in test-script
+                                      inside "order_edit"
